@@ -62,7 +62,7 @@ One or three digits, followed by zero or more groups of comma-digit-digit-digit
 ```
 
 ### Online tools
-[regexr.com](https://regexr.com)
-[regex101.com](https://regex101.com)
-[regextester.com](https://www.regextester.com)
-[pyregex.com](http://www.pyregex.com)
+- [regexr.com](https://regexr.com)
+- [regex101.com](https://regex101.com)
+- [regextester.com](https://www.regextester.com)
+- [pyregex.com](http://www.pyregex.com)
